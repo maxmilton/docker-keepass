@@ -7,7 +7,7 @@
 #   docker build --no-cache -t local/keepass .
 #
 
-FROM alpine:3.7@sha256:8c03bb07a531c53ad7d0f6e7041b64d81f99c6e493cb39abba56d956b40eacbc
+FROM alpine:3.7@sha256:5ce5f501c457015c4b91f91a15ac69157d9b06f1a75cf9107bf2b62e0843983a
 
 RUN set -xe \
   && addgroup -g 5339 -S keepass \
