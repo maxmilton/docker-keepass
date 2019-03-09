@@ -1,4 +1,6 @@
-<!-- markdownlint-disable first-line-h1 ol-prefix -->
+**DEPRECATED: Use the image from my `dockerfiles` repo instead: <https://github.com/MaxMilton/dockerfiles/tree/master/keypass>**
+
+---
 
 [![Build Status](https://travis-ci.com/MaxMilton/docker-keepass.svg?branch=master)](https://travis-ci.com/MaxMilton/docker-keepass) [![Image version](https://images.microbadger.com/badges/version/maxmilton/keepass.svg)](https://microbadger.com/images/maxmilton/keepass) [![Image layers](https://images.microbadger.com/badges/image/maxmilton/keepass.svg)](https://microbadger.com/images/maxmilton/keepass)
 
